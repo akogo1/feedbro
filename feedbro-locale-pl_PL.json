@@ -1,7 +1,7 @@
 {
     "meta": {
-        "manifest_version": 1,
-        "locale_version": "1.0",
+        "manifest_version": 1.1,
+        "locale_version": "1.1",
         "locale_name": "Polish",
         "locale_type": "pl_PL",
         "locale_last_updated": "2021-09-15 12:00:00 UTC",
@@ -243,7 +243,7 @@
     "options_action_update_locale_body": "Aktualizuj",
     "options_action_locale_update_failed": "Aktualizacja zakończona niepowodzeniem! Błąd: {1}",
     "options_action_locale_update_success": "Aktualizacja zakończona powodzeniem!",
-    "options_action_template_locale_body": "Pobierz",
+    "options_action_template_locale_body": "Pobierz \nPlik źródłowy",
     "options_action_template_locale_title": "Użyj tego szablonu, aby przetłumaczyć Feedbro na inny język.",
     "options_extensionclick_body": "Kliknięcie ikony Feedbro",
     "options_extensionclick_select_title": "Określa, co się dzieje po kliknięciu ikony rozszerzenia Feedbro",
