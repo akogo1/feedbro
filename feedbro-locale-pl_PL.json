@@ -228,7 +228,7 @@
     "options_exportfeeds_body": "Eksportuj do pliku OPML",
     "options_deletefeeds_body": "Usuń kanały i foldery",
     "options_importrules_body": "Importuj z pliku JSON",
-    "options_exportrules_body": "Eksportuj z pliku JSON",
+    "options_exportrules_body": "Eksportuj do pliku JSON",
     "options_deleterules_body": "Usuń reguły",
     "options_bookmarks_body": "Zakładki",
     "options_importbookmarks_body": "Importuj z pliku HTML",
