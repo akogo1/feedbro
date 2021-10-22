@@ -1,10 +1,10 @@
 {
     "meta": {
-        "manifest_version": 1.1,
-        "locale_version": "1.1",
+        "manifest_version": 1.2,
+        "locale_version": "1.2",
         "locale_name": "Polish",
         "locale_type": "pl_PL",
-        "locale_last_updated": "2021-09-15 12:00:00 UTC",
+        "locale_last_updated": "2021-10-22 11:00:00 UTC",
         "locale_author_name": "Dario B",
         "locale_author_email": "nakogo@gmail.com",
         "locale_source_url": "https://raw.githubusercontent.com/akogo1/feedbro/main/feedbro-locale-pl_PL.json"
@@ -372,7 +372,7 @@
     "ruleform_name_body": "Tytuł",
     "ruleform_enabled_body": "Włączona",
     "ruleform_enabled_input_title": "Jeśli nie jest zaznaczone, reguła jest nieaktywna",
-    "ruleform_fallthrough_body": "Fallthrough",
+    "ruleform_fallthrough_body": "Przechodź do następnych reguł w przypadku pasujących warunków",
     "ruleform_fallthrough_input_title": "Jeśli zaznaczone, inne reguły również zostaną ocenione, nawet jeśli ta reguła będzie dopasowana (= wolniejsza wydajność). Jeśli nie jest zaznaczone i reguła jest dopasowana, żadne inne reguły nie będą ocenione (= lepsza wydajność)",
     "ruleform_when_body": "Gdy",
     "ruleform_trigger_new_body": "Pojawia się nowy artykuł",
